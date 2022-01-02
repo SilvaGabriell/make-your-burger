@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+
+# Front END -> localhost:8080 {npm run serve}
+# Back END -> localhost:3000 {npm run backend}
